@@ -1,4 +1,8 @@
-### Hi there 👋
+## Olá, me chamo Helvio 😁
+
+### Além de futuro Desenvolvedor Android sou estudante de Analise e Desenvolvimento de Sistemas, tenho um curso técnico de Informática pelo IFMA onde também fiz alguns períodos de Ciência da Computação, estudos que me renderam boa capacidade de aprendizado em novas linguagem de programação e tecnologias. Hoje estou focado em Desenvolvimento Mobile para Android com Kotlin.
+
+### 🌱 Atualmente estou aprendendo tenologias de desenvolvimento para Android
 
 <!--
 **HelvioSiqueira/HelvioSiqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
